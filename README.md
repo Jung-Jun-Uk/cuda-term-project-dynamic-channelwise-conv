@@ -1,7 +1,7 @@
 KOREATECH
 CUDA Term project
 
-![conv](dynamic channel-wise convolution.png)
+![conv](/dynamic channel-wise convolution.png)
 
 
 
